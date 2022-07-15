@@ -3,3 +3,6 @@ Coding Questions :
 ** Number Related **
 
 1> Write a program to sum of n numbers
+2> Write a progran for sum of all digits.
+3> Write a program to reverse the Number
+4> Write a program to find GCD/HCM and LCM of n numbers
