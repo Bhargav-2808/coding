@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include<conio.h>
 
+//find GCD and LCM
 int GCD(int,int);
 int main(){
     int a[] = {35,5,30};

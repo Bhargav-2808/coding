@@ -6,3 +6,4 @@ Coding Questions :
 2> Write a progran for sum of all digits.
 3> Write a program to reverse the Number
 4> Write a program to find GCD/HCM and LCM of n numbers
+5> Find the given number is armstrong or not or print range of numbers.
