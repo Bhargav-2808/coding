@@ -7,6 +7,7 @@ def rev(num):
         rem=num%10
         num=num//10
         sum= sum*10 + rem
+        print(sum)
     print(sum)
     
 rev(12632)   
