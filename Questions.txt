@@ -8,3 +8,4 @@ Coding Questions :
 4> Write a program to find GCD/HCM and LCM of n numbers
 5> Find the given number is armstrong or not or print range of numbers.
 6> find the factorial of number with and without recursion
+7> Print Prime factors of given number.
