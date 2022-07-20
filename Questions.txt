@@ -7,3 +7,4 @@ Coding Questions :
 3> Write a program to reverse the Number
 4> Write a program to find GCD/HCM and LCM of n numbers
 5> Find the given number is armstrong or not or print range of numbers.
+6> find the factorial of number with and without recursion
