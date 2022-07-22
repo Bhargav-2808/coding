@@ -48,12 +48,12 @@ Coding Questions :
 13> Print duplicate char in String (Notice)
 14> check two strings are anagrams or not. (Notice)
 15> How do you find all the permutations of a string?(Notice)
-16> How can a given string be reversed using recursion? 
+16> How can a given string be reversed using recursion? (Notice)
 17> How do you check if a string contains only digits?
-18> How do you find duplicate characters in a given string?
+18> How do you find duplicate characters in a given string? 13
 19> How do you count a number of vowels and consonants in a given string?
 20> How do you count the occurrence of a given character in a string?
-21> How do you print the first non-repeated character from a string?
+21> How do you print the first non-repeated character from a string? (notice)
 22> How do you convert a given String into int like the atoi()?
 23> How do you reverse words in a given sentence without using any library method? 
 24> How do you check if two strings are a rotation of each other?
