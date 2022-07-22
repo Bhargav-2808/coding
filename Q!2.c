@@ -1,6 +1,8 @@
 #include<stdio.h>
 #include<string.h>
 
+
+// reverse the string
 void revs(char c)
 {
     int temp;

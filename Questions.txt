@@ -45,9 +45,9 @@ Coding Questions :
 ** String Questions**
 
 12> Reverse of string
-13> Print duplicate char in String
-14> check two strings are anagrams or not.
-15> How do you find all the permutations of a string? 
+13> Print duplicate char in String (Notice)
+14> check two strings are anagrams or not. (Notice)
+15> How do you find all the permutations of a string?(Notice)
 16> How can a given string be reversed using recursion? 
 17> How do you check if a string contains only digits?
 18> How do you find duplicate characters in a given string?
