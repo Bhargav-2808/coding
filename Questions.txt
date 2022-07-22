@@ -3,9 +3,68 @@ Coding Questions :
 ** Number Related **
 
 1> Write a program to sum of n numbers
-2> Write a progran for sum of all digits.
-3> Write a program to reverse the Number
-4> Write a program to find GCD/HCM and LCM of n numbers
-5> Find the given number is armstrong or not or print range of numbers.
+
+2> Write a progran for sum of all digits. => find rem then add into sum then divide it
+
+3> Write a program to reverse the Number => find rem then add it into sum with sum*10 
+
+4> Write a program to find GCD/HCM and LCM of n numbers => for any array gdc we can use 
+	callback function like. a[]={12,6} then gcd=a[0] pass it gcd(gcd,a[i]) func
+	if b==0 then return a else then return gcd(b,a%b)
+5> Find the given number is armstrong not or print range of numbers.
+	find sum of cube of digits then compare with original.
+
 6> find the factorial of number with and without recursion
+	recursion = n*fact(n-1).
+	progran n=1 for loop   multiplu n=n*i
+
+
 7> Print Prime factors of given number.
+	=> for factors if n%i==0 then return i 
+	   for prime from 2 to n/2		
+		if(n%i==0)
+			change flag
+
+		if flag original then return n
+
+
+8> Palindrom or not number.
+	fin rev then compare with original.
+
+
+9> find the number is perfect sqrt is not.
+	find sqrt then compare with original.
+
+
+10> Find the number is perfect or not. Logic:- find the factors of numbr :- 6=> 1,2,3
+    if 1+2+3 === 6 then perfect.
+
+11> Find the number is composite or not. Logic opposite of prime.
+
+
+** String Questions**
+
+12> Reverse of string
+13> Print duplicate char in String
+14> check two strings are anagrams or not.
+15> How do you find all the permutations of a string? 
+16> How can a given string be reversed using recursion? 
+17> How do you check if a string contains only digits?
+18> How do you find duplicate characters in a given string?
+19> How do you count a number of vowels and consonants in a given string?
+20> How do you count the occurrence of a given character in a string?
+21> How do you print the first non-repeated character from a string?
+22> How do you convert a given String into int like the atoi()?
+23> How do you reverse words in a given sentence without using any library method? 
+24> How do you check if two strings are a rotation of each other?
+25> How do you check if a given string is a palindrome? 
+27> How do you find the length of the longest substring without repeating characters? 
+28> Given string str, How do you find the longest palindromic substring in str?
+29> How to convert a byte array to String?
+30> how to remove the duplicate character from String? 
+31> How to find the maximum occurring character in given String?
+32> How do you remove a given character from String?
+33> Given an array of strings, find the most frequent word in a given array, I mean, 
+	he string that appears the most in the array. In the case of a tie, ​the string that 
+	s the smallest (lexicographically) ​is printed.
+
