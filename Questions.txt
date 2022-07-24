@@ -68,8 +68,8 @@ Coding Questions :
 31> How do you find the duplicate number on a given integer array?
 32> How do you find the largest and smallest number in an unsorted integer array? Look
 33> How do you find all pairs of an integer array whose sum is equal to a given number?
-34> How do you find duplicate numbers in an array if it contains multiple duplicates? 
-35> How to remove duplicates from a given array.
+34> How do you find duplicate numbers in an array if it contains multiple duplicates? same logic 31
+35> How to remove duplicates from a given array. // logic in Q21
 36> How do you search a target value in a rotated array?
 37> Given an unsorted array of integers, find the length of the longest consecutive elements sequence?
 38> How do you reverse an array

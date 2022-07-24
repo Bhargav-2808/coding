@@ -27,6 +27,16 @@ int dup()
         }
     }
 }
+//remove duplicate
+ //for ( k = j; k < size - 1; k++)
+//{
+ //   arr[k] = arr [k + 1];
+//}
+// decrease the size of array after removing duplicate element
+//size--;
+
+// if the position of the elements is changes, don't increase the index j
+//j--;
 
 int main()
 {
